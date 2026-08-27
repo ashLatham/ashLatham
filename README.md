@@ -7,7 +7,8 @@ The challenges I primarily face working with the current local LLMs (which are a
 
 My repos are primarily results of improving/customising the tooling available in this space for my particular needs.
 
-##Big shout-out to:
+
+##**Big shout-out to:**
   - https://github.com/earendil-works/pi
     Pi Agent is my preferred harness, both for its customisation possibilities as well as keeping context bloat to a minimum and allowing me to completely manage my context.
   - https://github.com/herdrdev/herdr

@@ -6,7 +6,7 @@ The challenges I primarily face working with the current local LLMs (which are a
 - **hallucinations and just plain lack of 'intelligence'**: as well as the obvious limitations of a small model, this is closely connected to issues with context management with any attempt to ground a model's answers or provide relevant context then starts to cause issues with managing context size.
 
 My repos are primarily results of improving/customising the tooling available in this space for my particular needs.
-
+---
 
 ##**Big shout-out to:**
   - https://github.com/earendil-works/pi

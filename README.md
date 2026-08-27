@@ -2,12 +2,12 @@
 I don't believe that frontier 'AI' models, hosted in massive data centers, are the future for everyday use of 'AI', any more than mainframes were the future for everyday computing. Centralised data centers are not sustainable from social, environmental, financial or, in many cases, regulatory perspectives. Instead fit for purpose local first 'AI' is where I am using my time to explore what is, and is not, possible to achieve with a local-first approach.
 
 The challenges I primarily face working with the current local LLMs (which are a huge leap forward compared to just 12 months ago) are:
-- *context management:* local models with 65k-120k context need to be kept on a tight leash both to avoid context blowout and also to keep the model in the sweet spot avoiding context rot and lost in the middle issues.
-- *hallucinations and just plain lack of 'intelligence'*: as well as the obvious limitations of a small model, this is closely connected to issues with context management with any attempt to ground a model's answers or provide relevant context then starts to cause issues with managing context size.
+- **context management:** local models with 65k-120k context need to be kept on a tight leash both to avoid context blowout and also to keep the model in the sweet spot avoiding context rot and lost in the middle issues.
+- **hallucinations and just plain lack of 'intelligence'**: as well as the obvious limitations of a small model, this is closely connected to issues with context management with any attempt to ground a model's answers or provide relevant context then starts to cause issues with managing context size.
 
 My repos are primarily results of improving/customising the tooling available in this space for my particular needs.
 
-**Big shout-out to:**
+###Big shout-out to:
   - https://github.com/earendil-works/pi
     Pi Agent is my preferred harness, both for its customisation possibilities as well as keeping context bloat to a minimum and allowing me to completely manage my context.
   - https://github.com/herdrdev/herdr

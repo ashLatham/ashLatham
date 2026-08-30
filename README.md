@@ -5,7 +5,7 @@ The challenges I primarily face working with the current local LLMs (which are a
 - **context management:** local models with 65k-120k context need to be kept on a tight leash both to avoid context blowout and also to keep the model in the sweet spot avoiding context rot and lost in the middle issues.
 - **hallucinations and just plain lack of 'intelligence'**: as well as the obvious limitations of a small model, this is closely connected to issues with context management with any attempt to ground a model's answers or provide relevant context then starts to cause issues with managing context size.
 
-My repos are primarily results of improving/customising the tooling available in this space for my particular needs.
+My repos are results of improving/customising the tooling available in this space for my particular needs.
 
 ---
 

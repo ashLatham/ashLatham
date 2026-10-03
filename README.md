@@ -10,8 +10,8 @@ My repos are results of improving/customising the tooling available in this spac
 ---
 
 ##**Big shout-out to:**
-  - https://github.com/earendil-works/pi
-    Pi Agent is my preferred harness, both for its customisation possibilities as well as keeping context bloat to a minimum and allowing me to completely manage my context.
+  - https://github.com/MichaelKinsy/PiG
+    Pi-on-Go (PiG) is going to replace Pi as my preferred harness, hopefully staying true to the focus of a minimalist harness to customise how I want it, without getting overloaded with unused opinionated features. 
   - https://github.com/herdrdev/herdr
     Herdr is a great agent first Mux. Running sub-agents for atomic well defined tasks is definitely one of my go-to methods for dealing with the limitations of local models by giving sub-agents small, well defined and atomic tasks. I am able to spawn separate Pi Agents, with their own specialised tools and skills, under the orchestration of the parent Pi. Herdr provides total visibility into what the sub-agents are doing and also allows the Parent to observe and communicate with these other agents (I have a couple of repos showing how I have implement it).
 
